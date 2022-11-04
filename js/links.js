@@ -1,7 +1,7 @@
 export const links = [
     {
       name: "Whatsapp",
-      link: "https://chat.whatsapp.com/LUXYgavymJAIpKx1UzVyGb",
+      link: "https://chat.whatsapp.com/IgeddOu1MoA1PqO8iIeStw",
       image: "./assets/whatsapp.png",
     },
     // {
@@ -34,9 +34,9 @@ export const links = [
       link: "https://wordsworthclub.medium.com/",
       image: "./assets/Medium.png",
     },
-    {
-      name: "Github",
-      link: "https://wordsworthclub.medium.com/",
-      image: "./assets/github.png",
-    },
+    //{
+    //  name: "Github",
+    //  link: "https://wordsworthclub.medium.com/",
+    //  image: "./assets/github.png",
+    //},
   ];
